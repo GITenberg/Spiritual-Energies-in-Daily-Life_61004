@@ -1,0 +1,26 @@
+_repo: Spiritual-Energies-in-Daily-Life_61004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jones, Rufus M. (Rufus Matthew)
+    alias: Jones, Rufus Matthew
+    birthdate: 1863
+    deathdate: 1948
+    gutenberg_agent_id: '6478'
+    url: http://www.gutenberg.org/2009/agents/6478
+    wikipedia: http://en.wikipedia.org/wiki/Rufus_Jones
+description: ''
+gutenberg_issued: '2019-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritual life'
+- !lcc 'BV'
+- GITenberg
+title: Spiritual Energies in Daily Life
+url: http://www.gutenberg.org/ebooks/61004
